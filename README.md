@@ -8,7 +8,7 @@ Dashboard to manage all Products and Orders
 Go to the project directory  
 
 ~~~bash  
-  cd erm
+  cd erp-system
 ~~~
 
 Install dependencies  
